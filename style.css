@@ -1,0 +1,67 @@
+.third{
+    background-color: rebeccapurple;
+    height: 300px;
+    background-image: url('../Images/2026.avif');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.header_para{
+    color: cadetblue;
+    font-size: large;
+    margin-left: 20px;
+} h2{
+    padding-top: 10px;
+    background-color: blanchedalmond;
+} ol{
+    font-style: italic;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.waker{
+    color: beige;
+    background-image: url('thibault-henry.jpg');
+    height: 100px;
+    width: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.final{
+    background-color: aquamarine;
+    color: purple;
+    margin-left: 30px;
+    margin-top: 15px;
+    margin-bottom: 50px;
+    padding: 15px;
+    font-weight: bold;
+    box-shadow: -5px 20px 15px gray;
+}
+
+button{
+    background-color: azure;
+    box-shadow: 3px 3px 15px rosybrown;
+    
+}
+
+#newyear{
+    height: 300px;
+    width: 450px;
+    margin-top: 30px;
+    display: block;
+}
+
+.lorem{
+    color: aquamarine;
+    background-color: gray;
+    font-weight: 900;
+    font-size: large;
+    font-display: auto;
+    border: 10px solid burlywood;
+    margin: 20px;
+    padding: 5px;
+    border-radius: 30px;
+    text-align: justify;
+    box-shadow: 10px 5px 10px palevioletred;
+    /* visibility: hidden; */
+}
